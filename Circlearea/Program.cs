@@ -8,6 +8,7 @@
             pi = 3.14f;
             radius = Convert.ToSingle(Console.ReadLine());
             CircleArea(radius,pi);
+            Console.WriteLine("Push to git");
             Console.ReadLine();
         }
         static void CircleArea(float radius,float pi)
